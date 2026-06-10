@@ -1,8 +1,7 @@
 # Lab 10 - Post Launch Tooling: User Analytics and Feedback
 
 ## Team Members
-- [Your Name]
-- [Partner Name (if applicable)]
+- Aarnav Gujjari - A19127921
 
 ## Links
 - **Canny.io Roadmap & Feature Requests:** https://cse110-lab10-aarn4v.canny.io/feature-requests
