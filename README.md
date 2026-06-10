@@ -4,6 +4,7 @@
 - Aarnav Gujjari - A19127921
 
 ## Links
+- **Live Site:** https://aarn4v.github.io/Lab10_Starter/
 - **Canny.io Roadmap & Feature Requests:** https://cse110-lab10-aarn4v.canny.io/feature-requests
 
 ## Features Implemented
